@@ -10,15 +10,11 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet var firstView: UIView!
-    @IBOutlet var secondView: UIView!
     override func viewDidLoad() {
         super.viewDidLoad()
        
-        
         self.startAnimation()
         
-      
     }
 
     override func viewDidAppear(_ animated: Bool) {
