@@ -14,4 +14,5 @@
     
      for stoping the animation : **self.stopAnimation()**
 
-<img src="https://imgflip.com/gif/2k7khe" width="40" height="40" />
+
+<a href="https://imgflip.com/gif/2k7khe"><img src="https://i.imgflip.com/2k7khe.gif" title="made at imgflip.com"/></a>
