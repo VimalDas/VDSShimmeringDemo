@@ -13,3 +13,6 @@
      for starting the animation : **self.startAnimation()**
     
      for stoping the animation : **self.stopAnimation()**
+
+
+![Gif not available](https://imgflip.com/gif/2k7khe)
